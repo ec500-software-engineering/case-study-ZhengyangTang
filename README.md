@@ -103,4 +103,10 @@ def norm(x):
 
 ## Demo-mnist hand-written number recognition
   
-- MNIST_data contains 70000 hand-written number(28*28 pixels), 
+- MNIST_data contains 70000 hand-written number(28 * 28 pixels), 60000 for training and 10000 for testing, labeled with the number in the image(1~10). 
+
+![mnist_image](https://github.com/ec500-software-engineering/case-study-ZhengyangTang/blob/master/mnist.PNG?raw=true)
+
+- The demo is basically build a 2-layer NN model for hand-written number recognition in Tensorflow.
+- run test.py to see the accuracy for testing sets.
+- achieve approximately 91% accuracy on testing sets.
