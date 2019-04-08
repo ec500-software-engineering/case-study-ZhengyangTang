@@ -13,13 +13,13 @@ Python is popular, simple and clean, and really easy to comprehend, and it's the
 
 ### 2. Building System and Building tools/environment
 - Bazel is used to compile Tensorflow
-- To use Tensorflow, User's need to install python(version 2.7 or above), pip/docker. The building details are as follows:
+- To use Tensorflow, Users need to install python(version 2.7 or above), pip/docker. The building details are as follows:
 
   - [Install TensorFlow with pip](https://www.tensorflow.org/install/pip)
   
   - [Install TensorFlow with Docker](https://www.tensorflow.org/install/docker)
   
-- User's can also install GPU support (optional)
+- Users can also install GPU support (optional)
 
   - [GPU support](https://www.tensorflow.org/install/gpu)
   
