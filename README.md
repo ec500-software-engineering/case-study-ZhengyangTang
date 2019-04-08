@@ -101,5 +101,6 @@ def norm(x):
   
 - 2. There is currently no Optimizer in the C++ API compared as the ones that we can find in the Python API, which means we have to do gradients calculation manully while using C++, and it's really frustrating, since retrieving the gradients and applying them is kind of hard and error prone. It would be great if an Optimizer + GradientDescentOptimizer can be developed in the C++ API.
 
-## Demo
+## Demo-mnist hand-written number recognition
   
+- MNIST_data contains 70000 hand-written number(28*28 pixels), 
