@@ -110,3 +110,7 @@ def norm(x):
 - The demo is basically build a 2-layer NN model for hand-written number recognition in Tensorflow.
 - run test.py to see the accuracy for testing sets.
 - achieve approximately 91% accuracy on testing sets.
+
+## References
+
+[https://www.tensorflow.org/guide](https://www.tensorflow.org/guide)
